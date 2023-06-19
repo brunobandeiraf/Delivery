@@ -25,3 +25,5 @@
 - npm add prisma -D
 - npm add express bcrypt jsonwebtoken @prisma/client
 - npx tsc --init
+- npx prisma init
+- npx prisma format (atrelar os relacionamentos)
